@@ -40,7 +40,7 @@ To run this project locally, you will need:
 
 ## 🙏 Acknowledgements
 
-*   The dataset used was obtained from a data challenge (e.g., Maven Analytics, Kaggle, etc.).
+*   The dataset used was obtained from a data challenge (e.g.Kaggle, etc.).
 *   Inspired by various data analysis tutorials and GitHub portfolio projects.
 
 <img width="1267" height="707" alt="Dasboard" src="https://github.com/user-attachments/assets/181ff840-fadf-4960-909c-c1031d104d3d" />
