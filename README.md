@@ -2,11 +2,11 @@
 
 ## 💡 Overview
 
-This project involves a comprehensive data analysis of a fictional pizza restaurant's sales data using SQL and Power BI. The goal is to extract meaningful insights into sales trends, customer behavior, and menu performance to help the business optimize its operations and improve sales.
+This project involves a comprehensive data analysis of a fictional pizza restaurant's sales data using **SQL Server** and Power BI. The goal is to extract meaningful insights into sales trends, customer behavior, and menu performance to help the business optimize its operations and improve sales.
 
 ## 🛠️ Project Components & Technologies
 
-*   💻 **SQL (MySQL/SQL Server):** Used for data cleaning, transformation, and analysis. This included tasks like joining tables, handling missing values, and performing aggregated queries.
+*   💻 **SQL Server:** Used for data cleaning, transformation, and analysis. This included tasks like joining tables, handling missing values, and performing aggregated queries. You can find specific queries for KPIs like average order value and total orders in the `sql_queries/` directory (assuming you create this folder).
 *   📊 **Power BI:** Utilized to create an interactive and visually appealing dashboard for data visualization and presentation of key insights.
 
 ## Key Insights & Findings
@@ -25,7 +25,7 @@ The analysis and Power BI dashboard revealed several valuable insights into the 
 ## 🚀 Getting Started
 
 To run this project locally, you will need:
-*   A database system (e.g., MySQL, SQL Server)
+*   SQL Server Management Studio (SSMS) or a similar client
 *   Power BI Desktop
 *   The raw dataset files (e.g., CSV format)
 
@@ -35,8 +35,8 @@ To run this project locally, you will need:
     ```bash
     git clone https://github.com
     ```
-2.  **Database Setup:** Import the raw data into your chosen database and run the provided SQL scripts for cleaning, transformation, and analysis.
-3.  **Power BI Setup:** Open the Power BI (`.pbix`) file and connect it to your database as a data source. Refresh the data to view the dashboard.
+2.  **Database Setup:** Import the raw data into your SQL Server instance and run the provided SQL scripts for cleaning, transformation, and analysis.
+3.  **Power BI Setup:** Open the Power BI (`.pbix`) file and connect it to your SQL Server database as a data source. Refresh the data to view the dashboard.
 
 ## 🙏 Acknowledgements
 
