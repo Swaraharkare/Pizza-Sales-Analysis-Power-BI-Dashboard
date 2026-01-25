@@ -2,11 +2,11 @@
 
 ## 💡 Overview
 
-This project involves a comprehensive data analysis of a fictional pizza restaurant's sales data using **SQL Server** and Power BI. The goal is to extract meaningful insights into sales trends, customer behavior, and menu performance to help the business optimize its operations and improve sales.
+This project involves a comprehensive data analysis of a fictional pizza restaurant's sales data using **SQL Server** and **Power BI**. The goal is to extract meaningful insights into sales trends, customer behavior, and menu performance to help the business optimize its operations and improve sales.
 
 ## 🛠️ Project Components & Technologies
 
-*   💻 **SQL Server:** Used for data cleaning, transformation, and analysis. This included tasks like joining tables, handling missing values, and performing aggregated queries. You can find specific queries for KPIs like average order value and total orders in the `sql_queries/` directory (assuming you create this folder).
+*   💻 **SQL Server:** Used for data cleaning, transformation, and analysis. This included tasks like joining tables, handling missing values, and performing aggregated queries. You can find specific queries for KPIs like average order value and total orders in the `SQL queries/` directory (assuming you create this folder).
 *   📊 **Power BI:** Utilized to create an interactive and visually appealing dashboard for data visualization and presentation of key insights.
 
 ## Key Insights & Findings
